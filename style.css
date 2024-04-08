@@ -81,6 +81,7 @@ fieldset button {
 
 fieldset button:hover {
   background: #f37c37;
+  cursor: pointer;
 }
 
 .lista-participantes {
@@ -132,4 +133,5 @@ tbody td button {
 
 tbody td button:hover {
   text-decoration: underline;
+  cursor: pointer;
 }
